@@ -2,7 +2,7 @@ package com.tmbl.constant;
 
 public enum StudentRegistrationConstant {
 
-	validateStuName("402", "Name is missing"),
+	validateStuName("402", "Student Name is missing"),
 	validateCourseName("403", "course name is missing");
 
 	private String code;
